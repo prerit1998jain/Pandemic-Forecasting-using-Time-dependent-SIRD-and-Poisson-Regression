@@ -1,4 +1,4 @@
-dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterritoryCode,popData2018,Daily  total tests,Daily change in cumulative total tests per thousand,Total tests per thousand
+dateRep,day,month,year,cases,deaths,countriesAndTerritories,geoId,countryterritoryCode,popData2018,Daily_total_tests,Daily_tests_per_thousand,tests_per_thousand
 31-12-2019,31,12,2019,0,0,South_Korea,KR,KOR,51635256,0,0,0
 01-01-2020,1,1,2020,0,0,South_Korea,KR,KOR,51635256,0,0,0
 02-01-2020,2,1,2020,0,0,South_Korea,KR,KOR,51635256,0,0,0
